@@ -12,5 +12,7 @@ The process of writing this assignment is described in WADAssignment.docx file.
 
 Remember that in order to use it the database connection variables has to be changed in all connection files.
 
+Login and password for administrator dashboard is "admin".
+
 ## Demo
 Check the demo site [here.](https://wojtek78.000webhostapp.com/index.html)
