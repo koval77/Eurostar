@@ -8,7 +8,7 @@ All images are zipped, to properly display graphic they have to be unpacked into
 
 To use google map you have to obtain google API key from google.
 
-The process of writing this assigment is described in assignment.docx file.
+The process of writing this assignment is described in WADAssignment.docx file.
 
 Remember that in order to use it the database connection variables has to be changed in all connection files.
 
