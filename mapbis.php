@@ -23,7 +23,7 @@
         //echo $locations[0]['name'].": In stock: ".$locations[0]['lat'].", sold: ".$locations[0]['lng'].".<br>";
         //echo $locations[1]['name'].": In stock: ".$locations[1]['lat'].", sold: ".$locations[1]['lng'].".<br>";
     ?>
-    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDsGhOtO6cHuyi-6MGU9JIOXXZp5OHAOaQ"></script> 
+    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=write_your_APIkey_here"></script> 
     <script type="text/javascript">
     var map;
     var Markers = {};
